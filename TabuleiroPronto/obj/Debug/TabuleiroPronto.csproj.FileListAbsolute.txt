@@ -1,0 +1,22 @@
+c:\users\aluno\documents\visual studio 2015\Projects\TabuleiroPronto\TabuleiroPronto\bin\Debug\TabuleiroPronto.exe.config
+c:\users\aluno\documents\visual studio 2015\Projects\TabuleiroPronto\TabuleiroPronto\bin\Debug\TabuleiroPronto.exe
+c:\users\aluno\documents\visual studio 2015\Projects\TabuleiroPronto\TabuleiroPronto\bin\Debug\TabuleiroPronto.pdb
+c:\users\aluno\documents\visual studio 2015\Projects\TabuleiroPronto\TabuleiroPronto\obj\Debug\TabuleiroPronto.csprojResolveAssemblyReference.cache
+c:\users\aluno\documents\visual studio 2015\Projects\TabuleiroPronto\TabuleiroPronto\obj\Debug\TabuleiroPronto.Form1.resources
+c:\users\aluno\documents\visual studio 2015\Projects\TabuleiroPronto\TabuleiroPronto\obj\Debug\TabuleiroPronto.Properties.Resources.resources
+c:\users\aluno\documents\visual studio 2015\Projects\TabuleiroPronto\TabuleiroPronto\obj\Debug\TabuleiroPronto.csproj.GenerateResource.Cache
+c:\users\aluno\documents\visual studio 2015\Projects\TabuleiroPronto\TabuleiroPronto\obj\Debug\TabuleiroPronto.exe
+c:\users\aluno\documents\visual studio 2015\Projects\TabuleiroPronto\TabuleiroPronto\obj\Debug\TabuleiroPronto.pdb
+G:\Trabalhos Etec\TPA\C#\TabuleiroPronto\TabuleiroPronto\bin\Debug\TabuleiroPronto.exe.config
+G:\Trabalhos Etec\TPA\C#\TabuleiroPronto\TabuleiroPronto\obj\Debug\TabuleiroPronto.exe
+G:\Trabalhos Etec\TPA\C#\TabuleiroPronto\TabuleiroPronto\obj\Debug\TabuleiroPronto.pdb
+C:\Users\User\Desktop\ETEC 1\Trabalhos Etec\TPA\C#\TabuleiroPronto\TabuleiroPronto\bin\Debug\TabuleiroPronto.exe.config
+C:\Users\User\Desktop\ETEC 1\Trabalhos Etec\TPA\C#\TabuleiroPronto\TabuleiroPronto\bin\Debug\TabuleiroPronto.exe
+C:\Users\User\Desktop\ETEC 1\Trabalhos Etec\TPA\C#\TabuleiroPronto\TabuleiroPronto\bin\Debug\TabuleiroPronto.pdb
+C:\Users\User\Desktop\ETEC 1\Trabalhos Etec\TPA\C#\TabuleiroPronto\TabuleiroPronto\obj\Debug\TabuleiroPronto.csprojAssemblyReference.cache
+C:\Users\User\Desktop\ETEC 1\Trabalhos Etec\TPA\C#\TabuleiroPronto\TabuleiroPronto\obj\Debug\TabuleiroPronto.Form1.resources
+C:\Users\User\Desktop\ETEC 1\Trabalhos Etec\TPA\C#\TabuleiroPronto\TabuleiroPronto\obj\Debug\TabuleiroPronto.Properties.Resources.resources
+C:\Users\User\Desktop\ETEC 1\Trabalhos Etec\TPA\C#\TabuleiroPronto\TabuleiroPronto\obj\Debug\TabuleiroPronto.csproj.GenerateResource.cache
+C:\Users\User\Desktop\ETEC 1\Trabalhos Etec\TPA\C#\TabuleiroPronto\TabuleiroPronto\obj\Debug\TabuleiroPronto.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ETEC 1\Trabalhos Etec\TPA\C#\TabuleiroPronto\TabuleiroPronto\obj\Debug\TabuleiroPronto.exe
+C:\Users\User\Desktop\ETEC 1\Trabalhos Etec\TPA\C#\TabuleiroPronto\TabuleiroPronto\obj\Debug\TabuleiroPronto.pdb
